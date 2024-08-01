@@ -5,9 +5,9 @@ This folders contains the solutions to the labs from the particiapnts. It is enc
 Please add your notebook into the appropriate folder with the following naming conventions:
 
 ```
-lab1_YOURGITHUBNAME.ipynb
+labX_YOURGITHUBNAME.ipynb
 ```
 
-where you replace `YOURGITHUBNAME` with your actual GitHub username (e.g., `lab1_vabarbosa.ipynb`)
+where `X` is the lab number and you replace `YOURGITHUBNAME` with your actual GitHub username (e.g., `lab1_vabarbosa.ipynb`)
 
 **NOTE**: please make sure to remove your API Token and any aother secret data that should not be shared from your notebook.
