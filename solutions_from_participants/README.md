@@ -8,6 +8,6 @@ Please add your notebook into the appropriate folder with the following naming c
 labX_YOURGITHUBNAME.ipynb
 ```
 
-where `X` is the lab number and you replace `YOURGITHUBNAME` with your actual GitHub username (e.g., `lab1_vabarbosa.ipynb`)
+where `X` is the lab number and replace `YOURGITHUBNAME` with your actual GitHub username (e.g., `lab1_vabarbosa.ipynb`)
 
 **NOTE**: please make sure to remove your API Token and any other secret data that should not be shared from your notebook.
