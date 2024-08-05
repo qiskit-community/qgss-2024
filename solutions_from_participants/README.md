@@ -10,4 +10,4 @@ labX_YOURGITHUBNAME.ipynb
 
 where `X` is the lab number and you replace `YOURGITHUBNAME` with your actual GitHub username (e.g., `lab1_vabarbosa.ipynb`)
 
-**NOTE**: please make sure to remove your API Token and any aother secret data that should not be shared from your notebook.
+**NOTE**: please make sure to remove your API Token and any other secret data that should not be shared from your notebook.
